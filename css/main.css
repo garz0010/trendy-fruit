@@ -22,20 +22,20 @@ body {
 }
 
 p {
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .fruit-1 {
-  font-family: Rammetto One, cursive;
+  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .fruit-2 {
-  font-family: Gravitas One, cursive;
+  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
 .fruit-3 {
-  font-family: Comfortaa, cursive;
+  font-family: "Comfortaa", cursive;
   background-color: #e86033;
 }
